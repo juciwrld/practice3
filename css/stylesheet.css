@@ -1,0 +1,51 @@
+.room{
+    background-color: #161616;
+    height: 50%;
+   
+    
+}
+.bag{
+   background-image: url(../img/image\ 5.jpg);height: 500px; width: 100x;
+    height: 500px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   border:4px solid #c4c4c4;
+   margin: 15px;
+
+}
+.lap{
+    background-color: #e5e5e5;
+    height: -3px;
+    
+}
+.shoe{
+    background-color:#e5e5e5;
+    height: -3px;
+
+}
+.demo1{
+    color:#ffb20f;
+   
+}
+.cloth{
+    background-color: #e5e5e5;
+    height: -3px;
+}
+.line{
+    background-color: thistle;
+    height: -3%;
+    width: 200%;
+}
+form{
+    padding-right: 10%;
+    
+   
+}
+
+
+
+    
+
+
+
